@@ -1,4 +1,4 @@
-Rainmeter Lite Search Box
+# Rainmeter Lite Search Box
 ```
 The code in the example is made for the Github search box. You can expand the searches by site.
 ```
