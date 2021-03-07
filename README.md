@@ -7,8 +7,6 @@ Rainmeter Lite Search Box
 * Download the file, upload it to the Rainmeter > Skins folder.
 
 # Settings
-* Download the file, upload it to the Rainmeter > Skins folder.
-
 ```
 1. [Background]
 - ImageName=#SKINSPATH#\image-name.png
