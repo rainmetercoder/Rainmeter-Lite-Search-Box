@@ -12,13 +12,13 @@ The code in the example is made for the Github search box. You can expand the se
 # Settings
 ```
 1. [Background]
-- ImageName=image-name.png
+- ImageName=github.png
 
 2. [SearchLabel]
 - Text=Search..
 
 3. [SearchInput]
-- Command1=!Execute ["https://webpage.url$UserInput$"]
+- Command1=!Execute ["https://github.com/search?q=$UserInput$"]
 ```
 
 # Screenshot 
