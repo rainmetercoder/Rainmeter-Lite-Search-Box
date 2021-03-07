@@ -12,14 +12,17 @@ The code in the example is made for the Github search box. You can expand the se
 # Settings
 ```
 1. [Background]
+You can customize the Lite Search Box background.
 - ImageName=github.png
 
 2. [SearchLabel]
+Set the text to be displayed in the Lite Search Box.
 - Text=Search..
 
 3. [SearchInput]
+Enter the URL of the web page you will search for in this section.
 - Command1=!Execute ["https://github.com/search?q=$UserInput$"]
 ```
 
 # Screenshot 
-![alt text](https://github.com/typhoonweb/Rainmeter-Lite-Search-Box/blob/main/screenshot.png)
+![Rainmeter Lite Search Box](https://github.com/typhoonweb/Rainmeter-Lite-Search-Box/blob/main/screenshot.png)
