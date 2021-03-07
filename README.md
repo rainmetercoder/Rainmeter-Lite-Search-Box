@@ -12,8 +12,8 @@ Rainmeter Lite Search Box
 - ImageName=#SKINSPATH#\image-name.png
 
 2. [SearchLabel]
-- Text=Youtube'da Ara
+- Text=Search..
 
 3. [SearchInput]
-- Command1=!Execute ["https://webpage.url$UserInput$"] DefaultValue=""
+- Command1=!Execute ["https://webpage.url$UserInput$"]
 ```
