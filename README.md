@@ -17,3 +17,6 @@ Rainmeter Lite Search Box
 3. [SearchInput]
 - Command1=!Execute ["https://webpage.url$UserInput$"]
 ```
+
+# Screenshot 
+![alt text](https://github.com/typhoonweb/Rainmeter-Lite-Search-Box/blob/main/screenshot.png)
