@@ -24,5 +24,8 @@ Enter the URL of the web page you will search for in this section.
 - Command1=!Execute ["https://github.com/search?q=$UserInput$"]
 ```
 
+# Supported Search Inputs +200
+Google, Yandex, Bing, Github, Facebook, Instagram, Twitter, TikTok, Medium, LinkedIn, Youtube, Vimeo, Pinterest, Tumblr, Snapchat, Reddit, Flickr, Swarm, Kik, Periscope, Tinder, Whatsapp, Telegram, Signal, Yahoo, Baidu, DuckDuckGo ... +200
+
 # Screenshot 
 ![Rainmeter Lite Search Box](https://github.com/typhoonweb/Rainmeter-Lite-Search-Box/blob/main/screenshot.png)
