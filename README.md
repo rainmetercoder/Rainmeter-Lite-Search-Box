@@ -29,4 +29,4 @@ Enter the URL of the web page you will search for in this section.
 Google, Yandex, Bing, Github, Facebook, Instagram, Twitter, TikTok, Medium, LinkedIn, Youtube, Vimeo, Pinterest, Tumblr, Snapchat, Reddit, Flickr, Swarm, Kik, Periscope, Tinder, Whatsapp, Telegram, Signal, Yahoo, Baidu, DuckDuckGo ... +200
 
 # Screenshot 
-![Rainmeter Lite Search Box](https://github.com/typhoonweb/Rainmeter-Lite-Search-Box/blob/main/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/69988594/111701622-271c7300-884c-11eb-94a3-c8f8fc768e14.png)
