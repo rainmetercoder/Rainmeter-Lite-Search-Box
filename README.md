@@ -10,17 +10,22 @@ The code in the example is made for the Github search box. You can expand the se
 * Download the file, upload it to the Rainmeter > Skins folder.
 
 # Settings
-```
-1. [Background]
-You can customize the Lite Search Box background.
+
+>You can customize the Lite Search Box background.
+```lua
+[Background]
 - ImageName=github.png
+```
 
-2. [SearchLabel]
-Set the text to be displayed in the Lite Search Box.
+> Set the text to be displayed in the Lite Search Box.
+```lua
+[SearchLabel]
 - Text=Search..
+```
 
-3. [SearchInput]
-Enter the URL of the web page you will search for in this section.
+> Enter the URL of the web page you will search for in this section.
+```lua
+[SearchInput]
 - Command1=!Execute ["https://github.com/search?q=$UserInput$"]
 ```
 *Lite Search Box displays the results in whatever browser is your default browser.*
