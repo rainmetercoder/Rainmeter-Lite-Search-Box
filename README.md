@@ -4,10 +4,10 @@ The code in the example is made for the Github search box. You can expand the se
 ```
 
 # Requirements
-* [**Rainmeter**] (https://www.rainmeter.net/) - You can run versions 4.3.1 and higher.
+[**Rainmeter**] (https://www.rainmeter.net/) - You can run versions 4.3.1 and higher.
 
 # Installation
-* Download the file, upload it to the Rainmeter > Skins folder.
+Download the file, upload it to the Rainmeter > Skins folder.
 
 # Settings
 
