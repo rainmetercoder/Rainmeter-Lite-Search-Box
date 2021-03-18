@@ -1,7 +1,5 @@
 # Rainmeter Lite Search Box
-```
 The code in the example is made for the Github search box. You can expand the searches by site.
-```
 
 # Requirements
 [**Rainmeter**] (https://www.rainmeter.net/) - You can run versions 4.3.1 and higher.
